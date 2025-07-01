@@ -1,6 +1,5 @@
 # Fine-tuning-Pipeline-for-YOLOv11-for-Image-Classification
 
-# 🧠 Fine-tuning Pipeline for YOLOv11 on Chicken Disease Classification 🐔
 
 This repository provides a **complete pipeline in Jupyter Notebook** to fine-tune **YOLOv11** for image classification on the [Chicken Disease Dataset](https://www.kaggle.com/datasets/allandclive/chicken-disease-1?resource=download&select=train_data.csv) from Kaggle. The model achieved an impressive **98.7% accuracy**, demonstrating its effectiveness in poultry disease recognition using deep learning.
 
